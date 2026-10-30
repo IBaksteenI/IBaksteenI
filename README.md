@@ -7,7 +7,7 @@ Outside of code, I'm drawn to industrial and defense tech. Especially how softwa
 Always learning, always building, and aiming to work on things that actually matter.
 
 <p align="center">
-  <img src="assets/knight.gif" width="720" alt="An armored ASCII knight beside a gold Orthodox cross, red cloak and grass moving in the wind">
+  <img src="assets/knight.gif" width="1012" alt="An armored ASCII knight beside a gold Orthodox cross, red cloak and grass moving in the wind">
 </p>
 
 ## Here's my experience
